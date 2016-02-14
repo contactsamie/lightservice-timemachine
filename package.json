@@ -1,0 +1,23 @@
+{
+  "version": "8.0.2",
+  "name": "lightservice-timemachine",
+  "homepage": "https://github.com/contactsamie/LightService",
+  "bugs": {
+    "url": "https://github.com/contactsamie/LightService/issues",
+    "email": "contactsamie@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contactsamie/LightService.git"
+  },
+  "description": "timemachine for lightservice",
+  "main": "lightservice-timemachine.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Samuel Bamgboye <contactsamie@gmail.com> ",
+  "license": "MIT",
+  "dependencies": {
+    "lightservice": "^8.0.2"
+  }
+}

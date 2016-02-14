@@ -1,2 +1,2 @@
-# lightservice-timemachine
-Time Machine For LightService
+# TimeMachine.LightService
+LightService's TimeMachine
